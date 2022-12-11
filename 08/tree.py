@@ -166,5 +166,3 @@ for col in range(len(trees4[0])):
         break
     scores.append(left*right*up*down)
 print('max', max(scores))
-    
-    
